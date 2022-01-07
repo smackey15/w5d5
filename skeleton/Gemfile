@@ -41,6 +41,7 @@ group :development, :test do
   gem 'shoulda-matchers'
   gem 'db-query-matchers'
   gem 'pry-rails'
+  gem 'annotate'
   gem 'rspec-rails', '~> 3.5'
   gem 'activerecord-import'
 end
